@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gra się dopiero zaczyna</title>
+    <style>
+        body {
+            background-color: black;
+            color: red;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+            margin: 0.5em 0;
+        }
+        h2 {
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Gra się dopiero zaczyna</h1>
+    <h2>Połącz kropki, Dominik</h2>
+</body>
+</html>
